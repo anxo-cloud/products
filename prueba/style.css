@@ -1,0 +1,17 @@
+#campo1 {
+    display: block;
+}
+
+h1 {
+    color:red;
+}
+
+#seccion1{
+    display:flex;
+    justify-content: center;
+    flex-direction: row;
+    justify-content: space-between;
+    padding:2px;
+    margin:20px;
+    
+}
