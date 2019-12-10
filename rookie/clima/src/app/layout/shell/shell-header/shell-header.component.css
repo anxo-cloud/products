@@ -1,0 +1,7 @@
+#sectionHeader {
+  background-color: aliceblue;
+  display:flex;
+  flex-direction: row;
+  justify-content: space-around;
+  justify-items: center;
+}

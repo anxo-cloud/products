@@ -1,0 +1,8 @@
+<h1>Formularios</h1>
+
+<form [formGroup]="formulario" >
+  <input type="number" formGroupName="dni" placeholder="dni">
+  <input type ="text" formGroupName="name">
+
+</form>
+<button (click)="enviar()">Enviar</button>
